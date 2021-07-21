@@ -8,13 +8,12 @@ This app is aim to provide you with the current weather of the city  against the
 
 App is designed from scratch using:
 
-HTML 5
-CSS 3
-JavaScrpit
+1-HTML 5
+2-CSS 3
+3-JavaScrpit
 
 Tools:
 
-VS-CODE
-Chrome (Testing Browser)
-
+1-VS-CODE
+2-Chrome (Testing Browser)
 
