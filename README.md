@@ -8,14 +8,11 @@ This app is aim to provide you with the current weather of the city  against the
 
 App is designed from scratch using:
 
-1-HTML 5
-2-CSS 3
-3-JavaScrpit
+HTML 5     CSS 3     JavaScrpit
 
 Tools:
 
-1-VS-CODE
-2-Chrome (Testing Browser)
+VS-CODE     Chrome (Testing Browser)
 
 Live Link : https://hamza-sajid.github.io/Weather-Forecasting/
 
